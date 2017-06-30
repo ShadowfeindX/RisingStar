@@ -1,6 +1,9 @@
 # RisingStar
 
-**TODO: Add description**
+**Get challenge details [here](https://gist.github.com/ShadowfeindX/ccbcbbd351d464b088967ef3cd5681c7)!**
+
+## Demo
+![demo](http://g.recordit.co/wc59zKUSCm.gif)
 
 ## Installation
 
